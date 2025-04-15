@@ -1,14 +1,94 @@
-# python
-__pycache__
-env
-.venv
+# Ignore everything by default
+*
+!.gitignore
+!README.md
+!LICENSE.md
 
-# misc
-*.code-workspace
-.vscode
+# Documentation
+!docs/
+!docs/*.md
+!docs/images/*.{png,jpg,gif}
 
-# my
-_references
-voice_to_clone.wav
-out_speak_result.wav
-out_speaker_samples
+# Development
+.env
+.env.*
+*.log
+.DS_Store
+.idea/
+.vscode/
+*.sublime-*
+
+# Build outputs
+dist/
+build/
+*.apk
+*.ipa
+*.app
+
+# Dependencies
+node_modules/
+vendor/
+packages/
+
+# Source code
+src/
+lib/
+app/
+assets/
+models/
+*.py
+*.js
+*.ts
+*.jsx
+*.tsx
+*.unity
+*.fbx
+*.blend
+*.obj
+
+# AI Models and Data
+*.bin
+*.onnx
+*.pth
+*.h5
+*.tflite
+*.mlmodel
+training/
+datasets/
+
+# Configuration
+*.yaml
+*.yml
+*.json
+*.config.js
+*.config.ts
+
+# Secrets
+*.pem
+*.key
+*.cert
+*.crt
+*.p12
+secrets/
+credentials/
+
+# Cache and temporary files
+.cache/
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Testing
+tests/
+__tests__/
+*.test.*
+*.spec.*
+coverage/
+
+# Documentation source
+*.sketch
+*.fig
+*.xd
+*.psd
+*.ai
