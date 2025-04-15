@@ -16,9 +16,9 @@
 
 <div align="center">
 
-https://i.imgur.com/gcg0B7z.mp4
+![Waif.AI Demo](demo.png)
 
-*Watch Waif.AI in action: Natural conversations, fluid animations, and real-time expressions*
+*Experience natural conversations, fluid animations, and real-time expressions with Waif.AI*
 </div>
 
 ## ✨ Key Features
