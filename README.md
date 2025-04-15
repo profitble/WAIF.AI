@@ -12,13 +12,10 @@
 
 </div>
 
-## 🎥 Demo
-
 <div align="center">
 
 ![Waif.AI Demo](demo.png)
 
-*Experience natural conversations, fluid animations, and real-time expressions with Waif.AI*
 </div>
 
 ## ✨ Key Features
