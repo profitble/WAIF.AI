@@ -15,9 +15,8 @@
 ## 🎥 Demo
 
 <div align="center">
-<video width="100%" controls>
-  <source src="demo.mp4" type="video/mp4">
-</video>
+
+https://github.com/profitble/waif/assets/demo.mp4
 
 *Watch Waif.AI in action: Natural conversations, fluid animations, and real-time expressions*
 </div>
