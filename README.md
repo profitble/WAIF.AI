@@ -16,7 +16,7 @@
 
 <div align="center">
 
-https://github.com/profitble/waif/assets/demo.mp4
+https://i.imgur.com/gcg0B7z.mp4
 
 *Watch Waif.AI in action: Natural conversations, fluid animations, and real-time expressions*
 </div>
